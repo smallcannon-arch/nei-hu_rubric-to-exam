@@ -1,0 +1,6 @@
+streamlit
+pandas
+pypdf
+python-docx
+xlsxwriter
+tabulate
